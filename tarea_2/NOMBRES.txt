@@ -1,0 +1,14 @@
+Integrante 1:
+    Nombre: Sofía Riquelme
+    Rol: 202073615-4
+    Realizó: el llenado de la matriz
+
+Integrante 2:
+    Nombre: Gabriel Ortiz
+    Rol: 202073535-2
+    Realizó: la lectura de la matriz
+
+Integrante 3:
+    Nombre: Bastián Navarrete
+    Rol: 202073510-7
+    Realizó: el main del programa

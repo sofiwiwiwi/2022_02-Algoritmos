@@ -1,0 +1,15 @@
+Integrante 1:
+    Nombre: Sofía Riquelme
+    Rol: 202073615-4
+   
+
+Integrante 2:
+    Nombre: Gabriel Ortiz
+    Rol: 202073535-2
+   
+
+Integrante 3:
+    Nombre: Bastián Navarrete
+    Rol: 202073510-7
+
+Entre todos realizamos la tarea en conjunto 

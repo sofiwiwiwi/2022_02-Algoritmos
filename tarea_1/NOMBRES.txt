@@ -1,0 +1,8 @@
+"Problema 1: El Problema de dar Cambio":
+	-Sofía Riquelme; ROL: 202073615-4 -> Desarrolla el problema completo.
+"Problema 2: Las Formas de Sumar un Número":
+	-Bastián Navarrete; ROL: 202073510-7 -> Desarrolla, con Gabriel y Sofía, el problema completo.
+	-Gabriel Ortiz; ROL: 202073535-2 -> Desarrolla, con Bastián y Sofía, el problema completo.
+	-Sofía Riquelme; ROL: 202073615-4 ->  Desarrolla, con Bastián y Gabriel, el problema completo.
+
+
